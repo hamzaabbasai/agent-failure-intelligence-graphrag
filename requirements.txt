@@ -1,0 +1,8 @@
+langchain
+langchain-openai
+langchain-neo4j
+langgraph
+neo4j
+pandas
+python-dotenv
+openai
